@@ -215,7 +215,7 @@ footer{border-top:1px solid rgba(255,255,255,0.1);padding:28px 24px}
         <div>
           <h2 class="s-h2">Led by Humza Khan</h2>
           <p class="s-p">With 7+ years across sales, leadership, coaching, customer experience, compliance and operations, Humza brings practical frontline and leadership experience to high-ticket sales teams.</p>
-          <p class="s-p" style="margin-top:16px">He currently leads a team of 25+ staff and has experience managing performance, coaching conversations, improving team accountability and building sales habits that can be repeated across a team.</p>
+          <p class="s-p" style="margin-top:16px">He currently leads a sales team of 25+ direct reports and has experience managing performance, coaching conversations, improving team accountability and building sales habits that can be repeated across a team.</p>
           <div class="stats">
             <div class="stat"><div class="stat-num">7+</div><div class="stat-lbl">Years sales experience</div></div>
             <div class="stat"><div class="stat-num">25+</div><div class="stat-lbl">Team members led</div></div>
